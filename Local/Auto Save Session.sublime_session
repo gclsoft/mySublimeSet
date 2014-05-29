@@ -166,6 +166,7 @@
 			},
 			"file_history":
 			[
+				"/Users/apple/node/undo4096/Games/Rubiks2048/platforms/android/res/xml/config.xml",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Installed Packages/HighlightCurrentWord.sublime-package",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
@@ -292,8 +293,7 @@
 				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-noclosebtn.html",
 				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-corners.html",
 				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-buttons.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-alt.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/old-faq-pages/why-wont-my-css-styles-apply-correctly-to-a-widget.html"
+				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-alt.html"
 			],
 			"find":
 			{
@@ -304,7 +304,6 @@
 				"height": 93.0,
 				"where_history":
 				[
-					"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/android/assets/www",
 					"/Users/apple/node/undo4096/Games/server/workspace",
 					"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www",
 					"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www",
@@ -364,7 +363,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"three",
 					"socket",
 					"background",
 					"choice",
@@ -491,7 +489,8 @@
 					"cube",
 					"width",
 					"cube",
-					"certMovesHeader"
+					"certMovesHeader",
+					"certName"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1227,1345 +1226,6 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/apple/node/undo4096/Games/server/workspace/app.js",
-					"settings":
-					{
-						"buffer_size": 1633,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 505,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/apple/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Notepad-Plus-Plus.tmTheme",
-					"settings":
-					{
-						"buffer_size": 6991,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/apple/node/undo4096/Games/server/workspace/models/Poll.js",
-					"settings":
-					{
-						"buffer_size": 628,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 181.0,
-				"selected_items":
-				[
-					[
-						"enable",
-						"Package Control: Enable Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Disable Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"disable",
-						"Package Control: Disable Package"
-					],
-					[
-						"Soda",
-						"Set Syntax: Rd (R Documentation)"
-					],
-					[
-						"Markdown Preview ",
-						"Markdown Preview: Python Markdown: Preview in Browser"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"start de",
-						"Debugger: Start debugging rails"
-					],
-					[
-						"",
-						"About"
-					]
-				],
-				"width": 457.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/apple/Library/Application Support/Sublime Text 3/Installed Packages/HighlightCurrentWord.sublime-package",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/mongoose/examples/express/connection-sharing/modelA.js",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Cache/Theme - Default/Widgets.stTheme.cache",
-				"/Users/apple/node/undo4096/Games/server/workspace/models/Poll.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/routes/index.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/app.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/public/partials/new.html",
-				"/Users/apple/node/undo4096/Games/server/workspace/public/javascripts/controllers.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/public/javascripts/app.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/express/node_modules/connect/lib/middleware/logger.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/express/node_modules/send/node_modules/mime/types/node.types",
-				"/Users/apple/node/undo4096/Games/server/workspace/changeName.py",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/2048Undos/config.xml",
-				"/Users/apple/node/undo4096/Games/Rubiks2048/platforms/ios/wwwOrig/index.html",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/styles/container.css",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/game_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/cordova-2.7.0.js",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/js/local_storage_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/Debug.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/phonegap.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/libs/Stats.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/README.md",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/libs/three.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/cordova_plugins.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/cordova.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/main.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/cube.js",
-				"/Users/apple/Downloads/touch-demos/multitouch.htm",
-				"/Users/apple/Downloads/touch-demos/touch-canvas.htm",
-				"/Users/apple/Downloads/touch-demos/touchmove.htm",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/index.html",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/libs/keyboard.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/Game.js",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/index.html",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/js/game_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/keyboard_input_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/application.js",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/js/application.js",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/index.html",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/styles/certificate.css",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/scripts/certificate.js",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/scripts/main.js",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/media/Erno_Signature_400x120.gif",
-				"/Users/apple/Pictures/appPic/RubikCube/commit/Rubik's Cube,3D,puzzle,Rubik Cube,鲁比克方块,math,intel",
-				"/Users/apple/Downloads/iscroll5_pull_to_refresh-master/WebContent/js/app/main2.js",
-				"/Users/apple/Downloads/iscroll5_pull_to_refresh-master/WebContent/pages/page2.html",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/android/assets/www/styles/doodle.css",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/android/assets/www/index.html",
-				"/Users/apple/Pictures/appPic/html5unity/txt/html5,jquery,jqtouch,appframework,jquery mobile,fl",
-				"/Users/apple/Pictures/appPic/html5unity/24163023-e031935ed89245798de200e78b02fdf2.jpg",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/buenosaires.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/page-d.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/page-c.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/page-b.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/page-d.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/page-c.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/page-b.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-fullscreen/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-forms/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-external/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-external/index2.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-external/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-dynamic/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/theme-default/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/theme-classic/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/textinput/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/tabs/tabbed-content.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/tabs/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow-styling/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow-stripes-strokes/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow-heading-groups/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle-options/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle-heading-groups/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle-example/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/sydney.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/swipe-page.css",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/seoul.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/paris.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/newyork.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/capetown.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-list/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/slider/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/slider-tooltip/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/slider-flipswitch/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/selectmenu/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/selectmenu-custom/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/selectmenu-custom-filter/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/rwd/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/rangeslider/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-outside-multipage/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-image-scaling/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-iframe/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-dynamic/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-arrow-size/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-alignment/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-swipe-open/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-styling/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-responsive/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-fixed/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-external/page-b.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-external/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-single-page/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-multi-page/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-with-select.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-success.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-rightclosebtn.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-overlay.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-noclosebtn.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-corners.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-buttons.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-alt.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/old-faq-pages/why-wont-my-css-styles-apply-correctly-to-a-widget.html"
-			],
-			"find":
-			{
-				"height": 37.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/Users/apple/node/undo4096/Games/server/workspace",
-					"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www",
-					"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www",
-					"/Users/apple/Downloads/gest.js-master",
-					"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www",
-					"/Users/apple/Downloads/iscroll5_pull_to_refresh-master/WebContent",
-					"/Users/apple/Downloads/angular-puzzle-master 2",
-					"/Users/apple/node/undo4096/Games/RubikCube/platforms/android/assets/www",
-					"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2",
-					"/Users/apple/node/undo4096/platforms/ios/www",
-					"/Users/apple/node/undo4096/platforms/ios/www/bootflat",
-					"/Users/apple/node/undo4096/platforms/ios/www",
-					"/Users/apple/node/undo4096/Games/server",
-					"/Users/apple/node/undo4096/Games/server/bet",
-					"/Users/apple/node/undo4096/Games/server/betgame",
-					"/Users/apple/node/undo4096/Games/server/Bet",
-					"/Users/apple/node/undo4096/Games/server/Bet/game-server/config",
-					"/Users/apple/node/undo4096/Games/server/bet",
-					"/Users/apple/node/undo4096/Games/server/bet/web-server",
-					"/Users/apple/node/undo4096/Games/server/bet",
-					"/Users/apple/node/undo4096/Games/server/workspace",
-					"/Users/apple/nginx_sites/www/pull-to-refresh",
-					"/Users/apple/nginx_sites/www/Walkable-App/client/www",
-					"/Users/apple/nginx_sites/www/www 2",
-					"/Users/apple/workspace",
-					"/Users/apple/node/RadarServer",
-					"/Users/apple/workspace",
-					"/Users/apple/node/undo4096/platforms/ios/wwwflappy",
-					"/Users/apple/Documents/work/game/img/hexagame",
-					"/Users/apple/Documents/work/game/click_that_hood",
-					"/Users/apple/node/undo4096/platforms/ios/",
-					"/Users/apple/node/undo4096/platforms/ios/www",
-					"/Users/apple/node/2048-AI",
-					"/Users/apple/node/socketio/Socket.io-with-iOS/sockio-server",
-					"/Users/apple/node/socketio/Socket.io-with-iOS/",
-					"/Users/apple/node/socketio/Socket.io-with-iOS/sockio-server",
-					"/Users/apple/node/socketio/socket.io/examples/chat",
-					"/Users/apple/node/socketio/socket.io",
-					"/Users/apple/ror/ruby-china",
-					"/Users/apple/ror/hackety-hack.com",
-					"/Users/apple/ror/ruby-china",
-					"/Users/apple/ror/",
-					"/Users/apple/ror/hackety-hack.com",
-					"/Users/apple/ror/chiliproject",
-					"/Users/apple/ror/bitcall",
-					"/Users/apple/ror/ruby-china",
-					"/Users/apple/ror/rails-devise",
-					"/Users/apple/ror/",
-					"/Users/apple/ror/g3",
-					"/Users/apple/ror/g/",
-					"/Users/apple/ror",
-					"/Users/apple/Desktop/code/gan/OpenBird/Resources"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"socket",
-					"background",
-					"choice",
-					"location",
-					"PollNewCtrl",
-					"location",
-					"createPoll",
-					"choices",
-					"3",
-					"pollQuestion",
-					"addChoice",
-					"ip",
-					"question",
-					"polllist",
-					"heading",
-					"is_win",
-					"todo",
-					"openBoard",
-					"storageManager",
-					"ganko2048score",
-					"game over",
-					"gameover",
-					"game over",
-					"Todo",
-					"//Todo",
-					"TODO:",
-					"restart-button",
-					"phonegap",
-					"next_texture",
-					"do_texture_events",
-					"do_texture_events = function (index, index2, i2, j2, k2) {",
-					"handleTouchMove",
-					"upMove",
-					"score",
-					"view_sides",
-					"is_win",
-					"Debug",
-					"Debug.js",
-					"height",
-					"game",
-					"game ",
-					"game over",
-					"over",
-					"game over",
-					"alert",
-					"2048",
-					"width",
-					"%;",
-					"game-container",
-					"game_container",
-					"10px",
-					"release",
-					"alert",
-					"container",
-					"container\ncontainer",
-					"fuck",
-					"createElement",
-					"game_container",
-					"http",
-					"size",
-					"game-intro",
-					"leftMove",
-					"KeyboardJS",
-					"keyboard.js",
-					"keyb",
-					"key",
-					"KeyboardJS",
-					"keydown",
-					"bind_keyboard_keys",
-					".gif",
-					"THREE.",
-					"rotation_animation",
-					"bind_keyboard_keys",
-					"alert(\"down",
-					"mouseX",
-					"onDocumentTouchStart",
-					"down",
-					"alert",
-					"renderer",
-					"game_container",
-					"renderer",
-					"container",
-					"mousedown",
-					"mousedown(function",
-					"$(\"#game_container\").mousedown(function () {",
-					"$(\"#game_container\")",
-					"$(\"#game_container\").mousedown(function () {",
-					"view_sides",
-					"bind_keyboard_keys",
-					"alert",
-					"\"down\"",
-					"  this.bindButtonPres",
-					"glitches",
-					"GAME",
-					"move",
-					"bind_keyboard_keys",
-					"down",
-					"keyboard.js",
-					"keyboard_input_manager.js",
-					"application.js",
-					"eventTouchmove",
-					"emit",
-					"application.js",
-					"KeyboardInputManager",
-					"eventTouchstart",
-					"emit",
-					"move",
-					"emit",
-					"flap",
-					"flap.wav",
-					"emit",
-					"eventTouchstart",
-					"preventDefault",
-					"eventTouchmove",
-					"run in your browser",
-					"can't run in your browser",
-					"gest.min.js",
-					"min",
-					"can't run in your browser",
-					"ResizeableTextBox",
-					"domElement",
-					"container",
-					"Larry_Signature_400x120",
-					"cube",
-					"width",
-					"cube",
-					"certMovesHeader",
-					"certName"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					".png",
-					",",
-					"",
-					"ganko/",
-					"/ganko/",
-					",",
-					";\\n",
-					";\\r\\n",
-					"",
-					";",
-					"/cocos2d",
-					"../../cocos2d",
-					"../../..",
-					"../../../",
-					"192.168.2.100",
-					" ",
-					"index_files/",
-					"type",
-					"http://ruby.taobao.org",
-					"'http://ruby.taobao.org'",
-					"mysql2",
-					"redmine"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": true,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/Users/apple/node/undo4096/Games/server/workspace"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/apple/node/undo4096/Games/server/workspace/app.js",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 1633,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										482,
-										482
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 505,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										303,
-										310
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 2,
-							"file": "/Users/apple/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Notepad-Plus-Plus.tmTheme",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6991,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2909.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/apple/node/undo4096/Games/server/workspace/models/Poll.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 628,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										353,
-										361
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.476673177083,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 314.0
-			},
-			"output.find_results":
-			{
-				"height": 118.0
-			},
-			"output.markdown":
-			{
-				"height": 118.0
-			},
-			"position": "48 0 1392 852 0 0 1440 878 ",
-			"project": "",
-			"replace":
-			{
-				"height": 42.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"relationship",
-						"sample_app_rails_4/app/models/relationship.rb"
-					],
-					[
-						"follower",
-						"ror/hackety-hack.com/app/views/users/followers.html.haml"
-					],
-					[
-						"database",
-						"redmine-2.5.0/config/database.yml"
-					],
-					[
-						"v2",
-						"ror/ruby-china/app/grape/api_v2.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-				],
-				"width": 892.0
-			},
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 132.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-				"max_columns": 2
-			},
-			"window_id": 157,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"text",
-						"text-align"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/apple/node/undo4096/Games/Rubiks2048/platforms/android/res/xml/config.xml",
-					"settings":
-					{
-						"buffer_size": 822,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 181.0,
-				"selected_items":
-				[
-					[
-						"enable",
-						"Package Control: Enable Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Disable Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"disable",
-						"Package Control: Disable Package"
-					],
-					[
-						"Soda",
-						"Set Syntax: Rd (R Documentation)"
-					],
-					[
-						"Markdown Preview ",
-						"Markdown Preview: Python Markdown: Preview in Browser"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"start de",
-						"Debugger: Start debugging rails"
-					],
-					[
-						"",
-						"About"
-					]
-				],
-				"width": 457.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/apple/Library/Application Support/Sublime Text 3/Installed Packages/HighlightCurrentWord.sublime-package",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/mongoose/examples/express/connection-sharing/modelA.js",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Cache/Theme - Default/Widgets.stTheme.cache",
-				"/Users/apple/node/undo4096/Games/server/workspace/models/Poll.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/routes/index.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/app.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/public/partials/new.html",
-				"/Users/apple/node/undo4096/Games/server/workspace/public/javascripts/controllers.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/public/javascripts/app.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/express/node_modules/connect/lib/middleware/logger.js",
-				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/express/node_modules/send/node_modules/mime/types/node.types",
-				"/Users/apple/node/undo4096/Games/server/workspace/changeName.py",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/2048Undos/config.xml",
-				"/Users/apple/node/undo4096/Games/Rubiks2048/platforms/ios/wwwOrig/index.html",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/styles/container.css",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/game_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/cordova-2.7.0.js",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/js/local_storage_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/Debug.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/phonegap.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/libs/Stats.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/README.md",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/libs/three.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/cordova_plugins.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/cordova.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/main.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/cube.js",
-				"/Users/apple/Downloads/touch-demos/multitouch.htm",
-				"/Users/apple/Downloads/touch-demos/touch-canvas.htm",
-				"/Users/apple/Downloads/touch-demos/touchmove.htm",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/index.html",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/libs/keyboard.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/Game.js",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/index.html",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/js/game_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/keyboard_input_manager.js",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www/js/application.js",
-				"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www/js/application.js",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/index.html",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/styles/certificate.css",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/scripts/certificate.js",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/scripts/main.js",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www/media/Erno_Signature_400x120.gif",
-				"/Users/apple/Pictures/appPic/RubikCube/commit/Rubik's Cube,3D,puzzle,Rubik Cube,鲁比克方块,math,intel",
-				"/Users/apple/Downloads/iscroll5_pull_to_refresh-master/WebContent/js/app/main2.js",
-				"/Users/apple/Downloads/iscroll5_pull_to_refresh-master/WebContent/pages/page2.html",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/android/assets/www/styles/doodle.css",
-				"/Users/apple/node/undo4096/Games/RubikCube/platforms/android/assets/www/index.html",
-				"/Users/apple/Pictures/appPic/html5unity/txt/html5,jquery,jqtouch,appframework,jquery mobile,fl",
-				"/Users/apple/Pictures/appPic/html5unity/24163023-e031935ed89245798de200e78b02fdf2.jpg",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/buenosaires.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/page-d.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/page-c.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/page-b.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/page-d.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/page-c.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/page-b.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-persistent-optimized/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-fullscreen/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-forms/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-fixed-external/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-external/index2.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-external/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/toolbar-dynamic/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/theme-default/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/theme-classic/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/textinput/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/tabs/tabbed-content.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/tabs/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow-styling/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow-stripes-strokes/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-reflow-heading-groups/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle-options/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle-heading-groups/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/table-column-toggle-example/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/sydney.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/swipe-page.css",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/seoul.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/paris.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/newyork.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-page/capetown.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/swipe-list/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/slider/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/slider-tooltip/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/slider-flipswitch/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/selectmenu/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/selectmenu-custom/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/selectmenu-custom-filter/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/rwd/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/rangeslider/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-outside-multipage/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-image-scaling/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-iframe/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-dynamic/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-arrow-size/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/popup-alignment/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-swipe-open/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-styling/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-responsive/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-fixed/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-external/page-b.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/panel-external/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-single-page/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-multi-page/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/index.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-with-select.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-success.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-rightclosebtn.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-overlay.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-noclosebtn.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-corners.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-buttons.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-alt.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/old-faq-pages/why-wont-my-css-styles-apply-correctly-to-a-widget.html"
-			],
-			"find":
-			{
-				"height": 23.0
-			},
-			"find_in_files":
-			{
-				"height": 93.0,
-				"where_history":
-				[
-					"/Users/apple/node/undo4096/Games/server/workspace",
-					"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www",
-					"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www",
-					"/Users/apple/Downloads/gest.js-master",
-					"/Users/apple/node/undo4096/Games/RubikCube/platforms/ios/www",
-					"/Users/apple/Downloads/iscroll5_pull_to_refresh-master/WebContent",
-					"/Users/apple/Downloads/angular-puzzle-master 2",
-					"/Users/apple/node/undo4096/Games/RubikCube/platforms/android/assets/www",
-					"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2",
-					"/Users/apple/node/undo4096/platforms/ios/www",
-					"/Users/apple/node/undo4096/platforms/ios/www/bootflat",
-					"/Users/apple/node/undo4096/platforms/ios/www",
-					"/Users/apple/node/undo4096/Games/server",
-					"/Users/apple/node/undo4096/Games/server/bet",
-					"/Users/apple/node/undo4096/Games/server/betgame",
-					"/Users/apple/node/undo4096/Games/server/Bet",
-					"/Users/apple/node/undo4096/Games/server/Bet/game-server/config",
-					"/Users/apple/node/undo4096/Games/server/bet",
-					"/Users/apple/node/undo4096/Games/server/bet/web-server",
-					"/Users/apple/node/undo4096/Games/server/bet",
-					"/Users/apple/node/undo4096/Games/server/workspace",
-					"/Users/apple/nginx_sites/www/pull-to-refresh",
-					"/Users/apple/nginx_sites/www/Walkable-App/client/www",
-					"/Users/apple/nginx_sites/www/www 2",
-					"/Users/apple/workspace",
-					"/Users/apple/node/RadarServer",
-					"/Users/apple/workspace",
-					"/Users/apple/node/undo4096/platforms/ios/wwwflappy",
-					"/Users/apple/Documents/work/game/img/hexagame",
-					"/Users/apple/Documents/work/game/click_that_hood",
-					"/Users/apple/node/undo4096/platforms/ios/",
-					"/Users/apple/node/undo4096/platforms/ios/www",
-					"/Users/apple/node/2048-AI",
-					"/Users/apple/node/socketio/Socket.io-with-iOS/sockio-server",
-					"/Users/apple/node/socketio/Socket.io-with-iOS/",
-					"/Users/apple/node/socketio/Socket.io-with-iOS/sockio-server",
-					"/Users/apple/node/socketio/socket.io/examples/chat",
-					"/Users/apple/node/socketio/socket.io",
-					"/Users/apple/ror/ruby-china",
-					"/Users/apple/ror/hackety-hack.com",
-					"/Users/apple/ror/ruby-china",
-					"/Users/apple/ror/",
-					"/Users/apple/ror/hackety-hack.com",
-					"/Users/apple/ror/chiliproject",
-					"/Users/apple/ror/bitcall",
-					"/Users/apple/ror/ruby-china",
-					"/Users/apple/ror/rails-devise",
-					"/Users/apple/ror/",
-					"/Users/apple/ror/g3",
-					"/Users/apple/ror/g/",
-					"/Users/apple/ror",
-					"/Users/apple/Desktop/code/gan/OpenBird/Resources"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"socket",
-					"background",
-					"choice",
-					"location",
-					"PollNewCtrl",
-					"location",
-					"createPoll",
-					"choices",
-					"3",
-					"pollQuestion",
-					"addChoice",
-					"ip",
-					"question",
-					"polllist",
-					"heading",
-					"is_win",
-					"todo",
-					"openBoard",
-					"storageManager",
-					"ganko2048score",
-					"game over",
-					"gameover",
-					"game over",
-					"Todo",
-					"//Todo",
-					"TODO:",
-					"restart-button",
-					"phonegap",
-					"next_texture",
-					"do_texture_events",
-					"do_texture_events = function (index, index2, i2, j2, k2) {",
-					"handleTouchMove",
-					"upMove",
-					"score",
-					"view_sides",
-					"is_win",
-					"Debug",
-					"Debug.js",
-					"height",
-					"game",
-					"game ",
-					"game over",
-					"over",
-					"game over",
-					"alert",
-					"2048",
-					"width",
-					"%;",
-					"game-container",
-					"game_container",
-					"10px",
-					"release",
-					"alert",
-					"container",
-					"container\ncontainer",
-					"fuck",
-					"createElement",
-					"game_container",
-					"http",
-					"size",
-					"game-intro",
-					"leftMove",
-					"KeyboardJS",
-					"keyboard.js",
-					"keyb",
-					"key",
-					"KeyboardJS",
-					"keydown",
-					"bind_keyboard_keys",
-					".gif",
-					"THREE.",
-					"rotation_animation",
-					"bind_keyboard_keys",
-					"alert(\"down",
-					"mouseX",
-					"onDocumentTouchStart",
-					"down",
-					"alert",
-					"renderer",
-					"game_container",
-					"renderer",
-					"container",
-					"mousedown",
-					"mousedown(function",
-					"$(\"#game_container\").mousedown(function () {",
-					"$(\"#game_container\")",
-					"$(\"#game_container\").mousedown(function () {",
-					"view_sides",
-					"bind_keyboard_keys",
-					"alert",
-					"\"down\"",
-					"  this.bindButtonPres",
-					"glitches",
-					"GAME",
-					"move",
-					"bind_keyboard_keys",
-					"down",
-					"keyboard.js",
-					"keyboard_input_manager.js",
-					"application.js",
-					"eventTouchmove",
-					"emit",
-					"application.js",
-					"KeyboardInputManager",
-					"eventTouchstart",
-					"emit",
-					"move",
-					"emit",
-					"flap",
-					"flap.wav",
-					"emit",
-					"eventTouchstart",
-					"preventDefault",
-					"eventTouchmove",
-					"run in your browser",
-					"can't run in your browser",
-					"gest.min.js",
-					"min",
-					"can't run in your browser",
-					"ResizeableTextBox",
-					"domElement",
-					"container",
-					"Larry_Signature_400x120",
-					"cube",
-					"width",
-					"cube",
-					"certMovesHeader",
-					"certName"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					".png",
-					",",
-					"",
-					"ganko/",
-					"/ganko/",
-					",",
-					";\\n",
-					";\\r\\n",
-					"",
-					";",
-					"/cocos2d",
-					"../../cocos2d",
-					"../../..",
-					"../../../",
-					"192.168.2.100",
-					" ",
-					"index_files/",
-					"type",
-					"http://ruby.taobao.org",
-					"'http://ruby.taobao.org'",
-					"mysql2",
-					"redmine"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": true,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/apple/node/undo4096/Games/Rubiks2048/platforms/android/res/xml/config.xml",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 822,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										427,
-										427
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/XML/XML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 314.0
-			},
-			"output.find_results":
-			{
-				"height": 118.0
-			},
-			"output.markdown":
-			{
-				"height": 118.0
-			},
-			"position": "48 0 1392 852 0 0 1440 878 ",
-			"project": "",
-			"replace":
-			{
-				"height": 42.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"relationship",
-						"sample_app_rails_4/app/models/relationship.rb"
-					],
-					[
-						"follower",
-						"ror/hackety-hack.com/app/views/users/followers.html.haml"
-					],
-					[
-						"database",
-						"redmine-2.5.0/config/database.yml"
-					],
-					[
-						"v2",
-						"ror/ruby-china/app/grape/api_v2.rb"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-				],
-				"width": 892.0
-			},
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 132.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-				"max_columns": 2
-			},
-			"window_id": 163,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"text",
-						"text-align"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
 					"file": "/Users/apple/Downloads/phonegap-plugin-iRate-master/plugin.xml",
 					"settings":
 					{
@@ -3271,6 +1931,27 @@
 			"buffers":
 			[
 				{
+					"file": "/Users/apple/node/undo4096/Games/server/workspace/routes/index.js",
+					"settings":
+					{
+						"buffer_size": 4332,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "// Place your settings in the file \"User/Preferences.sublime-settings\", which\n// overrides the settings in here.\n//\n// Settings may also be placed in file type specific options files, for\n// example, in Packages/Python/Python.sublime-settings for python files.\n{\n    // Sets the colors used within the text area\n    \"color_scheme\": \"Packages/Color Scheme - Default/Monokai.tmTheme\",\n\n    // Note that the font_face and font_size are overriden in the platform\n    // specific settings file, for example, \"Preferences (Linux).sublime-settings\".\n    // Because of this, setting them here will have no effect: you must set them\n    // in your User File Preferences.\n    \"font_face\": \"\",\n    \"font_size\": 10,\n\n    // Valid options are \"no_bold\", \"no_italic\", \"no_antialias\", \"gray_antialias\",\n    // \"subpixel_antialias\", \"no_round\" (OS X only), \"gdi\" (Windows only) and\n    // \"directwrite\" (Windows only)\n    \"font_options\": [],\n\n    // Characters that are considered to separate words\n    \"word_separators\": \"./\\\\()\\\"'-:,.;<>~!@#$%^&*|+=[]{}`~?\",\n\n    // Set to false to prevent line numbers being drawn in the gutter\n    \"line_numbers\": true,\n\n    // Set to false to hide the gutter altogether\n    \"gutter\": true,\n\n    // Spacing between the gutter and the text\n    \"margin\": 4,\n\n    // Fold buttons are the triangles shown in the gutter to fold regions of text\n    \"fold_buttons\": true,\n\n    // Hides the fold buttons unless the mouse is over the gutter\n    \"fade_fold_buttons\": true,\n\n    // Columns in which to display vertical rulers\n    \"rulers\": [],\n\n    // Set to true to turn spell checking on by default\n    \"spell_check\": false,\n\n    // The number of spaces a tab is considered equal to\n    \"tab_size\": 4,\n\n    // Set to true to insert spaces when tab is pressed\n    \"translate_tabs_to_spaces\": false,\n\n    // If translate_tabs_to_spaces is true, use_tab_stops will make tab and\n    // backspace insert/delete up to the next tabstop\n    \"use_tab_stops\": true,\n\n    // Set to false to disable detection of tabs vs. spaces on load\n    \"detect_indentation\": true,\n\n    // Calculates indentation automatically when pressing enter\n    \"auto_indent\": true,\n\n    // Makes auto indent a little smarter, e.g., by indenting the next line\n    // after an if statement in C. Requires auto_indent to be enabled.\n    \"smart_indent\": true,\n\n    // Adds whitespace up to the first open bracket when indenting. Requires\n    // auto_indent to be enabled.\n    \"indent_to_bracket\": false,\n\n    // Trims white space added by auto_indent when moving the caret off the\n    // line.\n    \"trim_automatic_white_space\": true,\n\n    // Disables horizontal scrolling if enabled.\n    // May be set to true, false, or \"auto\", where it will be disabled for\n    // source code, and otherwise enabled.\n    \"word_wrap\": \"auto\",\n\n    // Set to a value other than 0 to force wrapping at that column rather than the\n    // window width\n    \"wrap_width\": 0,\n\n    // Set to false to prevent word wrapped lines from being indented to the same\n    // level\n    \"indent_subsequent_lines\": true,\n\n    // Draws text centered in the window rather than left aligned\n    \"draw_centered\": false,\n\n    // Controls auto pairing of quotes, brackets etc\n    \"auto_match_enabled\": true,\n\n    // Word list to use for spell checking\n    \"dictionary\": \"Packages/Language - English/en_US.dic\",\n\n    // Set to true to draw a border around the visible rectangle on the minimap.\n    // The color of the border will be determined by the \"minimapBorder\" key in\n    // the color scheme\n    \"draw_minimap_border\": false,\n\n    // Always visualise the viewport on the minimap, as oppossed to only\n    // showing it on mouse over\n    \"always_show_minimap_viewport\": false,\n\n    // If enabled, will highlight any line with a caret\n    \"highlight_line\": false,\n\n    // Valid values are \"smooth\", \"phase\", \"blink\" and \"solid\".\n    \"caret_style\": \"smooth\",\n\n    // These settings control the size of the caret\n    \"caret_extra_top\": 0,\n    \"caret_extra_bottom\": 0,\n    \"caret_extra_width\": 0,\n\n    // Set to false to disable underlining the brackets surrounding the caret\n    \"match_brackets\": true,\n\n    // Set to false if you'd rather only highlight the brackets when the caret is\n    // next to one\n    \"match_brackets_content\": true,\n\n    // Set to false to not highlight square brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_square\": true,\n\n    // Set to false to not highlight curly brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_braces\": true,\n\n    // Set to false to not highlight angle brackets. This only takes effect if\n    // match_brackets is true\n    \"match_brackets_angle\": false,\n\n    // Enable visualization of the matching tag in HTML and XML\n    \"match_tags\": true,\n\n    // Highlights other occurrences of the currently selected text\n    \"match_selection\": true,\n\n    // Additional spacing at the top of each line, in pixels\n    \"line_padding_top\": 0,\n\n    // Additional spacing at the bottom of each line, in pixels\n    \"line_padding_bottom\": 0,\n\n    // Set to false to disable scrolling past the end of the buffer.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"scroll_past_end\": true,\n\n    // This controls what happens when pressing up or down when on the first\n    // or last line.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"move_to_limit_on_up_down\": false,\n\n    // Set to \"none\" to turn off drawing white space, \"selection\" to draw only the\n    // white space within the selection, and \"all\" to draw all white space\n    \"draw_white_space\": \"selection\",\n\n    // Set to false to turn off the indentation guides.\n    // The color and width of the indent guides may be customized by editing\n    // the corresponding .tmTheme file, and specifying the colors \"guide\",\n    // \"activeGuide\" and \"stackGuide\"\n    \"draw_indent_guides\": true,\n\n    // Controls how the indent guides are drawn, valid options are\n    // \"draw_normal\" and \"draw_active\". draw_active will draw the indent\n    // guides containing the caret in a different color.\n    \"indent_guide_options\": [\"draw_normal\"],\n\n    // Set to true to removing trailing white space on save\n    \"trim_trailing_white_space_on_save\": false,\n\n    // Set to true to ensure the last line of the file ends in a newline\n    // character when saving\n    \"ensure_newline_at_eof_on_save\": false,\n\n    // Set to true to automatically save files when switching to a different file\n    // or application\n    \"save_on_focus_lost\": false,\n\n    // Save via writing to an alternate file, and then renaming it over the\n    // original file.\n    \"atomic_save\": true,\n\n    // The encoding to use when the encoding can't be determined automatically.\n    // ASCII, UTF-8 and UTF-16 encodings will be automatically detected.\n    \"fallback_encoding\": \"Western (Windows 1252)\",\n\n    // Encoding used when saving new files, and files opened with an undefined\n    // encoding (e.g., plain ascii files). If a file is opened with a specific\n    // encoding (either detected or given explicitly), this setting will be\n    // ignored, and the file will be saved with the encoding it was opened\n    // with.\n    \"default_encoding\": \"UTF-8\",\n\n    // Files containing null bytes are opened as hexadecimal by default\n    \"enable_hexadecimal_encoding\": true,\n\n    // Determines what character(s) are used to terminate each line in new files.\n    // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and\n    // 'unix' (LF only).\n    \"default_line_ending\": \"system\",\n\n    // When enabled, pressing tab will insert the best matching completion.\n    // When disabled, tab will only trigger snippets or insert a tab.\n    // Shift+tab can be used to insert an explicit tab when tab_completion is\n    // enabled.\n    \"tab_completion\": true,\n\n    // Enable auto complete to be triggered automatically when typing.\n    \"auto_complete\": true,\n\n    // The maximum file size where auto complete will be automatically triggered.\n    \"auto_complete_size_limit\": 4194304,\n\n    // The delay, in ms, before the auto complete window is shown after typing\n    \"auto_complete_delay\": 50,\n\n    // Controls what scopes auto complete will be triggered in\n    \"auto_complete_selector\": \"source - comment, meta.tag - punctuation.definition.tag.begin\",\n\n    // Additional situations to trigger auto complete\n    \"auto_complete_triggers\": [ {\"selector\": \"text.html\", \"characters\": \"<\"} ],\n\n    // By default, auto complete will commit the current completion on enter.\n    // This setting can be used to make it complete on tab instead.\n    // Completing on tab is generally a superior option, as it removes\n    // ambiguity between committing the completion and inserting a newline.\n    \"auto_complete_commit_on_tab\": false,\n\n    // Controls if auto complete is shown when snippet fields are active.\n    // Only relevant if auto_complete_commit_on_tab is true.\n    \"auto_complete_with_fields\": false,\n\n    // Automatically close HTML and XML tags when </ is entered.\n    \"auto_close_tags\": true,\n\n    // By default, shift+tab will only unindent if the selection spans\n    // multiple lines. When pressing shift+tab at other times, it'll insert a\n    // tab character - this allows tabs to be inserted when tab_completion is\n    // enabled. Set this to true to make shift+tab always unindent, instead of\n    // inserting tabs.\n    \"shift_tab_unindent\": false,\n\n    // If true, the copy and cut commands will operate on the current line\n    // when the selection is empty, rather than doing nothing.\n    \"copy_with_empty_selection\": true,\n\n    // If true, the selected text will be copied into the find panel when it's\n    // shown.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"find_selected_text\": true,\n\n    // When auto_find_in_selection is enabled, the \"Find in Selection\" flag\n    // will be enabled automatically when multiple lines of text are selected\n    \"auto_find_in_selection\": false,\n\n    // When drag_text is enabled, clicking on selected text will begin a\n    // drag-drop operation. This is not currently implemented under Linux.\n    \"drag_text\": true,\n\n    //\n    // User Interface Settings\n    //\n\n    // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)\n    \"theme\": \"Default.sublime-theme\",\n\n    // Set to 0 to disable smooth scrolling. Set to a value between 0 and 1 to\n    // scroll slower, or set to larger than 1 to scroll faster\n    \"scroll_speed\": 1.0,\n\n    // Controls side bar animation when expanding or collapsing folders\n    \"tree_animation_enabled\": true,\n\n    // Controls animation throughout the application\n    \"animation_enabled\": true,\n\n    // Makes tabs with modified files more visible\n    \"highlight_modified_tabs\": false,\n\n    \"show_tab_close_buttons\": true,\n\n    // Show folders in the side bar in bold\n    \"bold_folder_labels\": false,\n\n    // OS X only: Set to true to disable Lion style full screen support.\n    // Sublime Text must be restarted for this to take effect.\n    \"use_simple_full_screen\": false,\n\n    // OS X only. Valid values are true, false, and \"auto\". Auto will enable\n    // the setting when running on a screen 2560 pixels or wider (i.e., a\n    // Retina display). When this setting is enabled, OpenGL is used to\n    // accelerate drawing. Sublime Text must be restarted for changes to take\n    // effect.\n    \"gpu_window_buffer\": \"auto\",\n\n    // Valid values are \"system\", \"enabled\" and \"disabled\"\n    \"overlay_scroll_bars\": \"system\",\n\n    // Allows tabs to scroll left and right, instead of simply shrinking\n    \"enable_tab_scrolling\": true,\n\n    // Display file encoding in the status bar\n    \"show_encoding\": false,\n\n    // Display line endings in the status bar\n    \"show_line_endings\": false,\n\n    //\n    // Application Behavior Settings\n    //\n\n    // Exiting the application with hot_exit enabled will cause it to close\n    // immediately without prompting. Unsaved modifications and open files will\n    // be preserved and restored when next starting.\n    //\n    // Closing a window with an associated project will also close the window\n    // without prompting, preserving unsaved changes in the workspace file\n    // alongside the project.\n    \"hot_exit\": true,\n\n    // remember_open_files makes the application start up with the last set of\n    // open files. Changing this to false will have no effect if hot_exit is\n    // true\n    \"remember_open_files\": true,\n\n    // Always prompt before reloading a file, even if the file hasn't been\n    // modified. The default behavior is to automatically reload a file if it\n    // hasn't been edited. If a file has unsaved changes, a prompt will always\n    // be shown.\n    \"always_prompt_for_file_reload\": false,\n\n    // OS X only: When files are opened from finder, or by dragging onto the\n    // dock icon, this controls if a new window is created or not.\n    \"open_files_in_new_window\": true,\n\n    // OS X only: This controls if an empty window is created at startup or not.\n    \"create_window_at_startup\": true,\n\n    // Set to true to close windows as soon as the last file is closed, unless\n    // there's a folder open within the window. This is always enabled on OS X,\n    // changing it here won't modify the behavior.\n    \"close_windows_when_empty\": false,\n\n    // Show the full path to files in the title bar.\n    // On OS X, this value is overridden in the platform specific settings, so\n    // you'll need to place this line in your user settings to override it.\n    \"show_full_path\": true,\n\n    // Shows the Build Results panel when building. If set to false, the Build\n    // Results can be shown via the Tools/Build Results menu.\n    \"show_panel_on_build\": true,\n\n    // Preview file contents when clicking on a file in the side bar. Double\n    // clicking or editing the preview will open the file and assign it a tab.\n    \"preview_on_click\": true,\n\n    // folder_exclude_patterns and file_exclude_patterns control which files\n    // are listed in folders on the side bar. These can also be set on a per-\n    // project basis.\n    \"folder_exclude_patterns\": [\".svn\", \".git\", \".hg\", \"CVS\"],\n    \"file_exclude_patterns\": [\"*.pyc\", \"*.pyo\", \"*.exe\", \"*.dll\", \"*.obj\",\"*.o\", \"*.a\", \"*.lib\", \"*.so\", \"*.dylib\", \"*.ncb\", \"*.sdf\", \"*.suo\", \"*.pdb\", \"*.idb\", \".DS_Store\", \"*.class\", \"*.psd\", \"*.db\", \"*.sublime-workspace\"],\n    // These files will still show up in the side bar, but won't be included in\n    // Goto Anything or Find in Files\n    \"binary_file_patterns\": [\"*.jpg\", \"*.jpeg\", \"*.png\", \"*.gif\", \"*.ttf\", \"*.tga\", \"*.dds\", \"*.ico\", \"*.eot\", \"*.pdf\", \"*.swf\", \"*.jar\", \"*.zip\"],\n\n    // File indexing parses all files in the side bar, and builds an index of\n    // their symbols. This is required for Goto Definition to work.\n    \"index_files\": true,\n\n    // index_exclude_patterns indicate which files won't be indexed.\n    \"index_exclude_patterns\": [\"*.log\"],\n\n    // When enabled, anonymised usage data is sent back, assisting Sublime HQ\n    // in making informed decisions about improving Sublime Text. File names\n    // and file contents are never included, but data such as computer\n    // specifications, startup time, installed packages, and edited file types\n    // are. When disabled, telemetry is neither recorded or sent.\n    // A setting of auto will enable telemetry in dev builds, and disable\n    // telemetry in regular builds.\n    \"enable_telemetry\": \"auto\",\n\n    // List any packages to ignore here. When removing entries from this list,\n    // a restart may be required if the package contains plugins.\n    \"ignored_packages\": [\"Vintage\"]\n}\n",
+					"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 15913,
+						"line_ending": "Unix",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
 					"file": "/Users/apple/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Notepad-Plus-Plus.tmTheme",
 					"settings":
 					{
@@ -3279,26 +1960,10 @@
 					}
 				},
 				{
-					"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"file": "/Users/apple/node/undo4096/Games/server/workspace/models/Poll.js",
 					"settings":
 					{
-						"buffer_size": 722,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/apple/Downloads/Cubiks-2048-master/js/main.js",
-					"settings":
-					{
-						"buffer_size": 7821,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 189,
+						"buffer_size": 628,
 						"line_ending": "Unix"
 					}
 				}
@@ -3306,21 +1971,9 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 49.0,
+				"height": 181.0,
 				"selected_items":
 				[
-					[
-						"disabe",
-						"Package Control: Disable Package"
-					],
-					[
-						"disab",
-						"Package Control: Disable Package"
-					],
-					[
-						"disable",
-						"Package Control: Disable Package"
-					],
 					[
 						"enable",
 						"Package Control: Enable Package"
@@ -3336,6 +1989,10 @@
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
 					],
 					[
 						"Soda",
@@ -3366,7 +2023,7 @@
 						"About"
 					]
 				],
-				"width": 633.0
+				"width": 457.0
 			},
 			"console":
 			{
@@ -3386,12 +2043,11 @@
 			},
 			"file_history":
 			[
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/android/assets/www/scripts/Three.noStrict.js",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Notepad-Plus-Plus.tmTheme",
-				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-				"/Users/apple/Downloads/Cubiks-2048-master/js/main.js",
+				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Installed Packages/HighlightCurrentWord.sublime-package",
+				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
+				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/Users/apple/node/undo4096/Games/server/workspace/node_modules/mongoose/examples/express/connection-sharing/modelA.js",
 				"/Users/apple/Library/Application Support/Sublime Text 3/Cache/Theme - Default/Widgets.stTheme.cache",
@@ -3513,7 +2169,8 @@
 				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-rightclosebtn.html",
 				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-overlay.html",
 				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-noclosebtn.html",
-				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-corners.html"
+				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-corners.html",
+				"/Users/apple/node/undo4096/platforms/android/assets/www/jquery.mobile-1.4.2/demos/pages-dialog/dialog-buttons.html"
 			],
 			"find":
 			{
@@ -3524,7 +2181,6 @@
 				"height": 93.0,
 				"where_history":
 				[
-					"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/android/assets/www",
 					"/Users/apple/node/undo4096/Games/server/workspace",
 					"/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/ios/www",
 					"/Users/apple/node/undo4096/Games/2048UndoUnlimited/platforms/ios/www",
@@ -3584,11 +2240,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"WordHighlight",
-					"GAN",
-					"Gan",
-					"WordHighlight",
-					"three",
+					"high",
 					"socket",
 					"background",
 					"choice",
@@ -3711,7 +2363,11 @@
 					"ResizeableTextBox",
 					"domElement",
 					"container",
-					"Larry_Signature_400x120"
+					"Larry_Signature_400x120",
+					"cube",
+					"width",
+					"cube",
+					"certMovesHeader"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3752,17 +2408,75 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/Users/apple/node/undo4096/Games/RubiksCube2048/platforms/android/assets/www"
+					"path": "/Users/apple/node/undo4096/Games/server/workspace"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "/Users/apple/node/undo4096/Games/server/workspace/routes/index.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 4332,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										622,
+										622
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 294.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15913,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14276,
+										14276
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 6982.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"file": "/Users/apple/Library/Application Support/Sublime Text 3/Cache/Color Scheme - Default/Notepad-Plus-Plus.tmTheme",
 							"semi_transient": false,
 							"settings":
@@ -3774,8 +2488,8 @@
 								"selection":
 								[
 									[
-										881,
-										881
+										559,
+										559
 									]
 								],
 								"settings":
@@ -3785,100 +2499,45 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 84.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
 						{
-							"buffer": 1,
-							"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"buffer": 3,
+							"file": "/Users/apple/node/undo4096/Games/server/workspace/models/Poll.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 722,
+								"buffer_size": 628,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										300,
-										300
+										482,
+										482
 									]
 								],
 								"settings":
 								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/apple/Downloads/Cubiks-2048-master/js/main.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7821,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 230.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/apple/Library/Application Support/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 189,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										14,
-										14
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -3901,11 +2560,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.476673177083,
 					1.0
 				],
 				"rows":
@@ -3927,7 +2593,7 @@
 			{
 				"height": 118.0
 			},
-			"position": "125 18 1256 852 0 0 1440 878 ",
+			"position": "46 26 1392 852 0 0 1440 878 ",
 			"project": "",
 			"replace":
 			{
@@ -3987,7 +2653,7 @@
 			{
 				"max_columns": 2
 			},
-			"window_id": 166,
+			"window_id": 157,
 			"workspace_name": ""
 		}
 	],
