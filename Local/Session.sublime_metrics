@@ -1,0 +1,30 @@
+{
+	"licensed": true,
+	"packages":
+	[
+		"Autocomplete Javascript with Method Signature",
+		"Color Scheme - Creamy",
+		"CSS3_Syntax",
+		"HTML5",
+		"Lua Dev",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"Rails Partial",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SublimeLinter-json",
+		"SublimeLinter-lua",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"WordHighlight"
+	],
+	"startup_sec": 0.684342,
+	"syntax":
+	{
+		"JSON": 13,
+		"XML": 15
+	},
+	"time": 1401336653
+}

@@ -1,0 +1,30 @@
+{
+	"autoIndent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Cache/Color Scheme - Default/Notepad-Plus-Plus.tmTheme",
+	"copyOnMouseSelect": false,
+	"drawWhiteSpace": "none",
+	"font_face": "Courier New",
+	"font_size": 13,
+	"gutter": true,
+	"highlightLine": true,
+	"ignored_packages":
+	[
+		"Highlighter",
+		"Vintage",
+		"HighlightWords",
+		"SyntaxHighlightTools"
+	],
+	"overlay_scroll_bars": "false",
+	"rulers": false,
+	"show_full_path": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"wantVerticalScrollBar": false,
+	"word_wrap": "true",
+	"highlight_line": true
+}
