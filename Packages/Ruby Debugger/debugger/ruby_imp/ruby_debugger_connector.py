@@ -4,10 +4,18 @@ import time
 import traceback
 import socket
 import subprocess
-from io import StringIO
+
 from threading import Thread
-import queue
-from queue import Queue
+try:
+	import queue
+	from queue import Queue
+	from queue import Empty
+	from io import StringIO
+except:
+    from Queue import Queue
+    from Queue import Empty
+    from StringIO import StringIO
+
 from ..interfaces import *
 from ..helpers import *
 
@@ -22,6 +30,9 @@ class RubyDebuggerConnector(DebuggerConnector):
 		self.connected = False
 		self.ruby_version = None
 		self.use_bundler = use_bundler
+		self.errors_reader = None
+		self.outputer = None
+		self.reader = None
 
 	def start(self, current_directory, file_name, *args):
 		'''
@@ -130,7 +141,7 @@ class RubyDebuggerConnector(DebuggerConnector):
 				if len(bytes) == 0:
 					break
 
-				result = str(bytes, "UTF-8")
+				result = bytes.decode("UTF-8")
 				self.log_message(result)
 		except Exception:
 			pass
@@ -144,10 +155,9 @@ class RubyDebuggerConnector(DebuggerConnector):
 				if len(bytes) == 0:
 					break
 
-				result = str(bytes, "UTF-8")
+				result = bytes.decode("UTF-8")
 				self.data.write(result)
 				self.data.flush()
-				# self.log_message(result)
 
 				if self.has_end_stream():
 					self.handle_response()
@@ -175,7 +185,7 @@ class RubyDebuggerConnector(DebuggerConnector):
 			file_name, line_number = self.get_current_position()
 
 			# Check wheather position was updated
-			if file_name != "" and not PathHelper.is_same_path(PathHelper.get_sublime_require(), file_name):
+			if file_name != "" and not PathHelper.is_same_path(PathHelper.get_sublime_require(), file_name) and not "kernel_require.rb" in file_name:
 				self.debugger.signal_position_changed(file_name, line_number)
 				# self.log_message("New position: "+file_name+":"+str(line_number))
 
@@ -196,9 +206,9 @@ class RubyDebuggerConnector(DebuggerConnector):
 				else:
 					pass
 
-				if PathHelper.is_same_path(PathHelper.get_sublime_require(), file_name):
-					self.debugger.run_command(DebuggerModel.COMMAND_CONTINUTE)
-			except queue.Empty:
+				if PathHelper.is_same_path(PathHelper.get_sublime_require(), file_name) or "kernel_require.rb" in file_name:
+					self.debugger.run_command(DebuggerModel.COMMAND_STEP_OVER)
+			except Empty:
 				pass
 
 		self.data = StringIO()
@@ -212,7 +222,7 @@ class RubyDebuggerConnector(DebuggerConnector):
 		self.send_data_internal(command)
 
 	def send_input(self, command):
-		self.process.stdin.write(bytes(command+'\n',"UTF-8"))
+		self.process.stdin.write(bytearray(command+'\n', "UTF-8"))
 		self.process.stdin.flush()
 
 	def send_control_command(self, command):
@@ -220,7 +230,7 @@ class RubyDebuggerConnector(DebuggerConnector):
 			pass
 
 		try:
-			self.control_client.sendall(bytes(command+'\n', 'UTF-8'))
+			self.control_client.sendall(bytearray(command+'\n', "UTF-8"))
 		except Exception as e:
 			if self.connected:
 				self.log_message("Failed communicate with process ("+command+"): "+str(e))
@@ -230,7 +240,7 @@ class RubyDebuggerConnector(DebuggerConnector):
 			return
 
 		try:
-			self.client.sendall(bytes(command+'\n', 'UTF-8'))
+			self.client.sendall(bytearray(command+'\n', "UTF-8"))
 		except Exception as e:
 			if self.connected:
 				self.log_message("Failed communicate with process ("+command+"): "+str(e))
@@ -282,9 +292,10 @@ class RubyDebuggerConnector(DebuggerConnector):
 		return self.data.getvalue().split('\n')
 
 	def stop(self):
-		self.connected = False
 		self.log_message("Stopping...")
 		self.send_control_command("kill")
 		if self.process:
 			self.process.kill()
+
+		self.connected = False
 		self.process = None

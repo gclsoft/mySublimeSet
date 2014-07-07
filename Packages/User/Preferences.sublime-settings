@@ -8,13 +8,33 @@
 	"font_size": 13,
 	"gutter": true,
 	"highlightLine": true,
+	"highlight_line": true,
 	"ignored_packages":
 	[
+		"HTML5",
+		"EsFormatter",
+		"HTML-CSS-JS Prettify",
 		"Highlighter",
-		"Vintage",
+		"Autocomplete Javascript with Method Signature",
+		"Pretty JSON",
+		"Nodejs",
+		"SyntaxHighlightTools",
 		"HighlightWords",
-		"SyntaxHighlightTools"
+		"SublimeLinter-json",
+		"Vintage",
+		"Markdown Preview",
+		"Color Scheme - Creamy",
+		"Regular Expressions",
+		"Theme - Phoenix",
+		"SublimeCodeIntel"
 	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_selection": false,
+	"match_tags": false,
 	"overlay_scroll_bars": "false",
 	"rulers": false,
 	"show_full_path": true,
@@ -25,6 +45,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"wantVerticalScrollBar": false,
-	"word_wrap": "true",
-	"highlight_line": true
+	"word_wrap": "true"
 }
