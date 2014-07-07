@@ -26,7 +26,16 @@
 		"Color Scheme - Creamy",
 		"Regular Expressions",
 		"Theme - Phoenix",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter-lua",
+		"Ruby Debugger",
+		"Ruby on Rails snippets",
+		"ASP",
+		"Rails Partial",
+		"TCL",
+		"Codecs33",
+		"OCaml",
+		"Language - English"
 	],
 	"match_brackets": false,
 	"match_brackets_angle": false,

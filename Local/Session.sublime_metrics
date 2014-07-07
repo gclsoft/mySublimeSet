@@ -3,21 +3,6 @@
 	"packages":
 	[
 		"BracketHighlighter",
-		"Color Scheme - Creamy",
-		"CSS3_Syntax",
-		"JsFormat",
-		"Lua Dev",
-		"Markdown Preview",
-		"Package Control",
-		"Rails Partial",
-		"Ruby on Rails snippets",
-		"SCSS",
-		"SublimeLinter-lua",
-		"Theme - Phoenix",
-		"Theme - Soda",
-		"WordHighlight",
-		"BracketHighlighter",
-		"Color Scheme - Creamy",
 		"CSS3_Syntax",
 		"JsFormat",
 		"Lua Dev",
@@ -26,27 +11,14 @@
 		"Ruby on Rails snippets",
 		"SCSS",
 		"SublimeLinter-lua",
-		"Theme - Phoenix",
-		"Theme - Soda",
-		"WordHighlight",
-		"BracketHighlighter",
-		"CSS3_Syntax",
-		"JsFormat",
-		"Lua Dev",
-		"Package Control",
-		"Rails Partial",
-		"Ruby on Rails snippets",
-		"SCSS",
-		"SublimeLinter-lua",
-		"Theme - Phoenix",
 		"Theme - Soda",
 		"WordHighlight"
 	],
-	"startup_sec": 0.973629,
+	"startup_sec": 0.944901,
 	"syntax":
 	{
 		"HTML": 4,
-		"JavaScript": 9
+		"JavaScript": 11
 	},
 	"time": 1404705610
 }
