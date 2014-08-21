@@ -5,20 +5,16 @@
 		"BracketHighlighter",
 		"CSS3_Syntax",
 		"JsFormat",
-		"Lua Dev",
+		"Markdown Preview",
 		"Package Control",
-		"Rails Partial",
-		"Ruby on Rails snippets",
 		"SCSS",
-		"SublimeLinter-lua",
 		"Theme - Soda",
 		"WordHighlight"
 	],
-	"startup_sec": 0.944901,
+	"startup_sec": 0.520407,
 	"syntax":
 	{
-		"HTML": 4,
-		"JavaScript": 11
+		"Plain text": 8
 	},
-	"time": 1404705610
+	"time": 1408631718
 }
