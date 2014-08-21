@@ -1,9 +1,0 @@
-{
-    // Format the file when saved - this option is not available yet, sorry :(
-    "format_on_save": false,
-
-    // EsFormatter specific options
-    // default are specified here https://github.com/millermedeiros/esformatter/blob/master/lib/preset/default.json
-    <%= esformatter_defaults %>
-
-}
